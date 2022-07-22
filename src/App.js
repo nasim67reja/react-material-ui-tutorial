@@ -1,10 +1,10 @@
 import { Fragment } from "react";
+import AutoComplete from "./Components/Input/AutoComplete";
 
-import ButtonC from "./Components/Button";
 export default function App() {
   return (
     <Fragment>
-      <ButtonC />
+      <AutoComplete />
     </Fragment>
   );
 }
