@@ -41,7 +41,9 @@ Users should be able to:
 
 ### What I learned
 
-By building this project I have learned how to create horzonlat scroll page layout
+#### Box
+
+- It's like div in material ui (a wrapper component)
 
 ### Useful resources
 
