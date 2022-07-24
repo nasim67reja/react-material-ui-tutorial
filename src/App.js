@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // import { Fragment } from "react";
 
 import Navbar from "./lama-dev/Navbar";
@@ -21,5 +22,15 @@ export default function App() {
         <Rightbar />
       </Stack>
     </Box>
+=======
+import { Fragment } from "react";
+import AutoComplete from "./Components/Input/AutoComplete";
+
+export default function App() {
+  return (
+    <Fragment>
+      <AutoComplete />
+    </Fragment>
+>>>>>>> b701b1e8d2782da27c55b87336ba07676ef50536
   );
 }
