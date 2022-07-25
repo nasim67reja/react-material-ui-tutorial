@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // import { Fragment } from "react";
 
 import Navbar from "./lama-dev/Navbar";
@@ -10,7 +9,7 @@ import { Box, Stack } from "@mui/material";
 export default function App() {
   return (
     <Box>
-      {/* <Navbar /> */}
+      <Navbar />
       <Stack
         direction="row"
         spacing={{ xs: 1, sm: 2, md: 4 }}
@@ -22,15 +21,5 @@ export default function App() {
         <Rightbar />
       </Stack>
     </Box>
-=======
-import { Fragment } from "react";
-import AutoComplete from "./Components/Input/AutoComplete";
-
-export default function App() {
-  return (
-    <Fragment>
-      <AutoComplete />
-    </Fragment>
->>>>>>> b701b1e8d2782da27c55b87336ba07676ef50536
   );
 }
