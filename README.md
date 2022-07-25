@@ -56,6 +56,6 @@ Users should be able to:
 - Frontend Mentor - [@nasim67reja](https://www.frontendmentor.io/profile/@nasim67reja)
 - Twitter - [@Nasimreja97](https://www.twitter.com/@Nasimreja97)
 
-<!-- https://preview.themeforest.net/item/martfury-multipurporse-ecommerce-magento-2-theme/full_screen_preview/21687089?_ga=2.44221223.2083912330.1656639199-37531422.1655451304 -->
-<!-- https://cs-everything-supermarket.myshopify.com/ -->
-<!-- https://mika-electronics.myshopify.com/ -->
+https://preview.themeforest.net/item/martfury-multipurporse-ecommerce-magento-2-theme/full_screen_preview/21687089?_ga=2.44221223.2083912330.1656639199-37531422.1655451304
+https://cs-everything-supermarket.myshopify.com/
+https://mika-electronics.myshopify.com/
